@@ -9,3 +9,5 @@ Dashboard 3 :https://public.tableau.com/views/AgriculDashboart1/Dashboard3?:lang
 Story 1 :https://public.tableau.com/views/AgriculStory1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Story 2 :https://public.tableau.com/views/AgriculStory2/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+VIDEO Explanation :https://drive.google.com/file/d/16R59RElaFv3rCDv9GQxOOwQq-tzrvLlG/view?usp=drive_link
